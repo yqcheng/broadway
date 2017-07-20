@@ -1,0 +1,49 @@
+html{
+  font-family:Helvetica;
+  text-align:center;
+}
+
+.heading, #work, footer, .white-font{
+  color:white;
+}
+
+h1{
+  font-size:70px;
+}
+
+.heading{
+  background-image:url("../images/background.png");
+}
+
+nav{
+  font-size:18px;
+}
+
+h1, #process, .icon, #work{
+  font-weight:bold;
+}
+
+#process{
+  font-size:32px;
+}
+
+#work{
+  background-image:url("../images/background.png");
+}
+
+.icon{
+  font-size:23px;
+}
+
+.descri{
+  font-size:14px;
+}
+
+footer{
+  text-align:left;
+  background-color:dimgray;
+}
+
+.sb{
+  font-size:11px;
+}
